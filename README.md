@@ -2,4 +2,4 @@
 ## High Schools and Catholic Churches in Arizona heat map
 ### Maria Sidorenko
 
-[Link]()
+[Link](https://marisido33.github.io/wk7/googleHeatMap-Students-deckgl.html)
